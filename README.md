@@ -1,6 +1,5 @@
 # react-native-firstnativemod
 
-first mod
 
 ## Installation
 
@@ -12,8 +11,6 @@ npm install react-native-firstnativemod
 
 ```js
 import { multiply } from 'react-native-firstnativemod';
-
-// ...
 
 const result = await multiply(3, 7);
 ```
